@@ -26,8 +26,8 @@ const float DEADBAND     = 1.0f;   // <<< small readings treated as zero (g)
 unsigned long lastPrint = 0;       // periodic display timer (ms)
 
 // ================== Wi-Fi + NTP settings ==================
-const char* ssid     = "SnakeSheep";  //"EE3070_P1615_1";
-const char* password = "ntyl19951223";  //"EE3070P1615";
+const char* ssid     = "EE3070_P1615_1";  //"EE3070_P1615_1";
+const char* password = "EE3070P1615";  //"EE3070P1615";
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec = 8 * 3600;   // UTC+8 for Hong Kong
 const int   daylightOffset_sec = 0;
