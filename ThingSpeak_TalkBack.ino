@@ -3,7 +3,7 @@
 #include <HTTPClient.h>
 
 // ===== Wi-Fi settings =====
-const char* ssid     = "SnakeSheep";
+const char* ssid     = "EE3070_P1615_1";
 const char* password = "EE3070P1615";
 
 // ===== ThingSpeak TalkBack settings =====
