@@ -4,7 +4,7 @@
 
 // ===== Wi-Fi settings =====
 const char* ssid     = "SnakeSheep";
-const char* password = "ntyl19951223";
+const char* password = "EE3070P1615";
 
 // ===== ThingSpeak TalkBack settings =====
 const char* writeApiKey = "LRT1SV5NLOOBPDKV";   // Channel Write API Key
